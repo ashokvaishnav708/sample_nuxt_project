@@ -1,0 +1,17 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.inlineSuggest.enabled": true,
+    "eslint.enable": true,
+    "eslint.codeActionsOnSave.mode": "problems",
+    "files.associations": {
+      "*.css": "tailwindcss"
+    },
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "yaml.schemas": {
+      "https://raw.githubusercontent.com/woodpecker-ci/woodpecker/main/pipeline/frontend/yaml/linter/schema/schema.json": ".woodpecker/*.yml"
+    }
+  }
+  
